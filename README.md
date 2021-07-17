@@ -7,14 +7,16 @@ Brave,
 Microsoft Edge
 
 Depreciated Browsers (you can use these but they won’t work as well):
-Firefox
+Firefox,
+Chromium
 
 Unsupported Browsers:
 Safari,
 Opera,
 Opera GX,
 Vivaldi,
-Internet Explorer
+Internet Explorer,
+Epic
 
 Supported Operating Systems:
 macOS 10.11-11.0
