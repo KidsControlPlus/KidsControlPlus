@@ -6,9 +6,11 @@ Google Chrome,
 Brave,
 Microsoft Edge
 
+Depreciated Browsers (you can use these but they won’t work as well):
+Firefox
+
 Unsupported Browsers:
 Safari,
-Firefox,
 Opera,
 Opera GX,
 Vivaldi,
