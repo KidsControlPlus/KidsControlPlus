@@ -31,4 +31,4 @@ Q: Is there a Windows version?
 A: Currently No. If this gained downloads I might consider making one.
 
 Q: How do I set it up?
-A: I will be creating a setup video soon!
+A: I will be creating a setup video soon
