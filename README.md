@@ -1,16 +1,16 @@
 * KidsControl+ is a program to make computers
 * a safe environment for kids!
 
-* Supported Browsers:
+* **Supported Browsers:**
 * Google Chrome,
 * Brave,
 * Microsoft Edge
 
-* Depreciated Browsers (you *can* use these but they won’t work as well):
+* **Depreciated Browsers (you *can* use these but they won’t work as well):**
 * Firefox,
 * Chromium
 
-* Unsupported Browsers:
+* **Unsupported Browsers:**
 * Safari,
 * Opera,
 * Opera GX,
@@ -18,7 +18,7 @@
 * Internet Explorer,
 * Epic
 
-* Supported Operating Systems:
+* **Supported Operating Systems:**
 * macOS 10.11-11.0
 * Windows not supported
 
